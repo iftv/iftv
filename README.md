@@ -4,4 +4,4 @@
 
 🌱 I'm currently learning Flutter.
 
-!()[https://github-readme-stats.vercel.app/api?username=qqtv&show_icons=true&theme=graywhite]
+![](https://github-readme-stats.vercel.app/api?username=qqtv&show_icons=true&theme=graywhite)
