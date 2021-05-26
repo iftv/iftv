@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🚀 I'm a Software Engineer focused on Web 💻 and MicroService 🌍.
+🚀 I'm a coder focused on Web 💻 and MicroService 🌍.
 
-🌱 I'm currently learning Flutter.
+🌱 I'm currently writing a SAAS site builder.
 
 ![](https://github-readme-stats.vercel.app/api?username=qqtv&show_icons=true&theme=graywhite)
