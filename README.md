@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🚀 I'm a coder focused on Web 💻 and MicroService 🌍.
-
-🌱 I'm currently interested in MetaVerse, but I don't know what that is, can any DALAO take me fly?
+🤖️ AI is comming, is there any one can take me flying with AI?
 
 ![](https://github-readme-stats.vercel.app/api?username=iftv&show_icons=true&theme=radical)
